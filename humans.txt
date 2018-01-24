@@ -7,7 +7,7 @@
     celso     developer
 # THANKS
 
-    <name>
+    Thanks to all raccons 
 
 # TECHNOLOGY COLOPHON
 
